@@ -94,7 +94,4 @@ The power supply for the system is built using two 18650 rechargeable batteries 
 3. Open a web browser and navigate to the IP address of the ESP01.
 4. Use the web interface to turn the light bulb on and off.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
