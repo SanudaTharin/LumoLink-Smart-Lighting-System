@@ -36,7 +36,9 @@ LumoLink uses the ESP01 to create a Wi-Fi-enabled light bulb that can be control
 
 ## Circuit Diagram
 
-![Circuit Diagram](link_to_your_circuit_diagram_image)
+![image](https://github.com/SanudaTharin/LumoLink-Smart-Lighting-System/assets/154645932/2f3e6878-42f5-48d4-8dfb-fdcc297b5a06)
+
+
 
 ## Installation
 
